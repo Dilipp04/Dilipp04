@@ -98,7 +98,6 @@
     width="40"
     height="40" />
 </a>
-
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <img
     src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
@@ -120,8 +119,6 @@
     width="40"
     height="40" />
 </a>
-
-
 <a
   href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
   target="_blank"
@@ -132,8 +129,6 @@
     width="40"
     height="40" />
 </a>
-
-
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
@@ -176,8 +171,6 @@
     width="40"
     height="40" />
 </a>
-
-
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
@@ -199,7 +192,6 @@
     width="40"
     height="40" />
 </a>
-
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
