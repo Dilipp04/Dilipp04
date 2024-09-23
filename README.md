@@ -1,24 +1,15 @@
-<h1 align="center">Hi 👋, I'm Hitesh Solanki</h1>
+<h1 align="center">Hi 👋, I'm Dilip prajapati</h1>
 <h3 align="center">A passionate learner from India, and you'll find a variety of projects reflecting my journey and exploration in this space. From Web Developement to AI and Machine Learning, I love diving deep into solving problems and creating innovative solutions.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hitesh-s0lanki&label=Profile%20views&color=0e75b6&style=flat" alt="hitesh-s0lanki" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hitesh-s0lanki" alt="hitesh-s0lanki" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **College Attendance System**
 
-- 🌱 I’m currently learning **NextJS, ML, DSA**
+- 🌱 I’m currently learning **NextJS**
 
-- 👯 I’m looking to collaborate on **AI, Deep learning and ML**
+- 👯 I’m looking to collaborate on **Web Application and Andriod applicaiton**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Hitesh-s0lanki](https://github.com/Hitesh-s0lanki)
-- My leetcode link at [https://leetcode.com/hitesh4623/](https://leetcode.com/hitesh4623/)
+- 👨‍💻 All of my projects are available at [https://github.com/Dilipp04](https://github.com/Dilipp04)
 
-- 💬 Ask me about **leetcode**
-
-- 📫 How to reach me **hiteshsolanki4623@gmail.com**
+- 📫 How to reach me **Dilipp11082004@gmail.com**
 
 - ⚡ Fun fact **I think very logically**
 
