@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Dilip prajapati</h1>
+### Hi there 👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Ahmad!;I'm+a+Flutter+Developer...;I'm+also+Machine+Learning+Engineer;And+I'm+a+proud+Pakistani+🇵🇰)](https://git.io/typing-svg)
+
 <h3 align="center">A passionate learner from India, and you'll find a variety of projects reflecting my journey and exploration in this space. From Web Developement to AI and Machine Learning, I love diving deep into solving problems and creating innovative solutions.</h3>
 
 - 🔭 I’m currently working on **College Attendance System**
@@ -12,6 +15,9 @@
 - 📫 How to reach me **Dilipp11082004@gmail.com**
 
 - ⚡ Fun fact **I think very logically**
+
+<img src="https://komarev.com/ghpvc/?username=Dilipp04&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
