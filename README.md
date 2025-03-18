@@ -4,9 +4,9 @@
 
 <h3 align="center">A passionate learner from India, and you'll find a variety of projects reflecting my journey and exploration in this space. From Web Developement to AI and Machine Learning, I love diving deep into solving problems and creating innovative solutions.</h3>
 
-- 🔭 I’m currently working on **College Attendance System**
+- 🔭 I’m currently working on **Organ donation android app**
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **React Native**
 
 - 👯 I’m looking to collaborate on **Web Application and Andriod applicaiton**
 
