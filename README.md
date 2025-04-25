@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It%27s+Dilip+Prajapati!;I%27m+a+Full+Stack+Developer...;I%27m+currently+Learning+AIML+;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It%27s+Dilip+Prajapati!;I%27m+a+Full+Stack+Developer...;I%27m+currently+Learning+NextJS+;)](https://git.io/typing-svg)
 
 <h3 align="center">A passionate learner from India, and you'll find a variety of projects reflecting my journey and exploration in this space. From Web Developement to AI and Machine Learning, I love diving deep into solving problems and creating innovative solutions.</h3>
 
